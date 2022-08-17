@@ -2,7 +2,7 @@
 <?php if($current_page=='index'){?>        
 <title>Best Web Design, Development, Digital Marketing Company in Australia | Skymultitech</title>     
 <meta name="description" content="Invest in web design, development, digital marketing services with our expert team. We deliver high end solutions for your growing business. Contact Us for a free quote."/>	
-  <meta name="keywords" content="website management services, ECommerce Solutions services, ECommerce Solutions services in australia, Professional Website Development Services in australia, website maintenance services in australia"/>        
+  <meta name="keywords" content="website management services company, ECommerce Solutions services, ECommerce Solutions services in australia, Professional Website Development Services in australia, website maintenance services in australia"/>        
   <link rel="canonical" href="http://<?php echo $url_p;?>" />		
   <meta property="og:title" content="Best Web Design, Development, Digital Marketing Company in Australia | Skymultitech">
   <meta property="og:site_name" content="Skymultitech">
